@@ -2,5 +2,6 @@
 Encapsulation:
 Polymorphism:
 Inheritence:
+Abstraction:
 
 
